@@ -13,14 +13,14 @@ To introduce, inspire and engage learners to study Physical Computing as well as
 ## Learning Outcomes
 - Learners will understand and apply the fundamental computational techniques to solve contextualised problems
 - Learners will apply computational techniques including abstraction, decomposition logic and algorithms
-- Learners will become more confident in using micro:bits to build Physical Computing projects
+- Learners will become more confident in using the Arduino MKR to build Physical Computing projects
 - Learners will understand how technology can be applied to the real world
   
 ## Resource structure
-The micro:course is a series of individual projects that build in complexity.
+Arduino MKR is a series of individual projects that build in complexity.
 
 ## License
-You are free to fork or clone this material. See [Licence.md](https://github.com/arm-university/ASP_Arduino-MKR/blob/main/LICENSE.md) for the complete license.
+You are free to fork or clone this material. See [Licence.md](https://github.com/arm-university/ASP_Arduino-MKR/blob/main/License.md) for the complete license.
 
 ## Inclusive Language Commitment
 Arm is committed to making the language we use inclusive, meaningful, and respectful. Our goal is to remove and replace non-inclusive language from our vocabulary to reflect our values and represent our global ecosystem.
