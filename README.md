@@ -1,10 +1,11 @@
 # Arduino MKR
-Arduino MKR is a colourful, introductory book of projects that guides learners from first principles of the micro:bit through to the use of Python. It is intended for self-study and includes full explanations of each project, with all code also provided. It is available in two versions: for micro:bit v1 and for v2.
+Arduino MKR is a colourful, introductory book that introduces learners to the exciting world of microcontrollers and the Internet of Things. Learners will use both simulators and physical devices to build systems and solve real-life problems. A variety of input and output devices will be used to receive instruction from the user, sense the environment, and display both status information and complex outputs.
 
-Which version should I use? If you are using micro:bit v1s, we recommend downloading the v1 version of the micro:course. If you are using micro:bit v1 or a mixture of v1s and v2s, we recommend the v2 version, which clearly indicates which tasks relate specifically to v2 users.
+The book takes a gradual approach to learning, with simulations and emulators used to build confidence, before learners begin constructing basic physical circuits. A variety of Internet services are applied to turn the devices into true Internet of Things devices, both to instruct the device to carry out a task and to report data from the device's sensors.
 
-## [Download both micro:courses for micro:bit](https://github.com/arm-university/micro-course/archive/refs/heads/main.zip)
-## [Download micro:course for micro:bit V2 only](https://github.com/arm-university/ASP_micro-course/blob/main/Arm_micro%20course_V2.pdf)
+As well as stand-alone devices and those connected to the Internet of Things, learners will experience some other exciting modern technologies such as Machine Learning-based Artificial Intelligence using the popular Python language.
+
+## [Download Arduino MKR](https://github.com/arm-university/ASP_Arduino-MKR/archive/refs/heads/main.zip)
 
 ## Resource Aim
 To introduce, inspire and engage learners to study Physical Computing as well as serving as an introduction to the pedagogy and resources offered in our full courses.
