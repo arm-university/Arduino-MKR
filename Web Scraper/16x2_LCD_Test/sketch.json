@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "arduino:samd:mkrwifi1010",
+    "name": "Arduino MKR WiFi 1010",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": []
+}

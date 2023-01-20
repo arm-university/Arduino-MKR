@@ -1,0 +1,18 @@
+{
+  "cpu": {
+    "fqbn": "arduino:samd:mkr1000",
+    "name": "Arduino MKR1000",
+    "type": "serial"
+  },
+  "secrets": [
+    {
+      "name": "SECRET_SSID",
+      "value": ""
+    },
+    {
+      "name": "SECRET_PASS",
+      "value": ""
+    }
+  ],
+  "included_libs": []
+}
