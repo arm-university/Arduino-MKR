@@ -1,11 +1,11 @@
 # Arduino MKR Projects for Schools
-Arduino MKR is a colourful, introductory book that introduces learners to the exciting world of microcontrollers and the Internet of Things. Learners will use both simulators and physical devices to build systems and solve real-life problems. A variety of input and output devices will be used to receive instruction from the user, sense the environment, and display both status information and complex outputs.
+Arduino MKR Projects for Schools is a colourful, introductory book that introduces learners to the exciting world of microcontrollers and the Internet of Things. Learners will use both simulators and physical devices to build systems and solve real-life problems. A variety of input and output devices will be used to receive instruction from the user, sense the environment, and display both status information and complex outputs.
 
 The book takes a gradual approach to learning, with simulations and emulators used to build confidence, before learners begin constructing basic physical circuits. A variety of Internet services are applied to turn the devices into true Internet of Things devices, both to instruct the device to carry out a task and to report data from the device's sensors.
 
 As well as stand-alone devices and those connected to the Internet of Things, learners will experience some other exciting modern technologies such as Machine Learning-based Artificial Intelligence using the popular Python language.
 
-## [Download Arduino MKR](https://github.com/arm-university/ASP_Arduino-MKR/archive/refs/heads/main.zip)
+## [Download Arduino MKR Projects for Schools](https://github.com/arm-university/ASP_Arduino-MKR/archive/refs/heads/main.zip)
 
 ## Resource Aim
 To introduce, inspire and engage learners to study Physical Computing as well as serving as an introduction to the pedagogy and resources offered in our full courses.
@@ -17,7 +17,7 @@ To introduce, inspire and engage learners to study Physical Computing as well as
 - Learners will understand how technology can be applied to the real world
   
 ## Resource structure
-Arduino MKR is a series of individual projects that build in complexity.
+Arduino MKR Projects for Schools is a series of individual projects that build in complexity.
 
 ## License
 You are free to fork or clone this material. See [Licence.md](https://github.com/arm-university/ASP_Arduino-MKR/blob/main/License.md) for the complete license.
